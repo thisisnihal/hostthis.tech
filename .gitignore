@@ -1,0 +1,25 @@
+# Build output (local preview only)
+public/
+
+# Hugo cache & stats
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache (for your script)
+__pycache__/
+*.pyc
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*.bak
+*~
+node_modules/
