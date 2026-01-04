@@ -1,7 +1,7 @@
 +++
-date = '2026-06-17T23:50:21+05:30'
+date = '2025-06-16T02:50:21+05:30'
 draft = false
-title = 'Sample Post'
+title = 'Sample Post - Learning Linux Again!'
 +++
 
 Learning Linux Again!

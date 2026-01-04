@@ -1,8 +1,8 @@
-baseURL = 'https://hostthis.tech/'
+baseURL = 'https://blog.hostthis.tech/'
 languageCode = 'en-us'
-title = 'HostThis.Tech'
+title = 'Blog.HostThis.Tech'
 theme='archie'
-copyright = "© hostthis.tech"
+copyright = "© blog.hostthis.tech"
 publishDir = "public"
 pygmentsstyle = "native" # onedark, native, xcode, dracula, obsidian, gruvbox, xcode-dark, github-dark
 pygmentscodefences = true
